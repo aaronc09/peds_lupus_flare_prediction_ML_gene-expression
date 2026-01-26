@@ -8,7 +8,7 @@ Systemic Lupus Erythematosus (SLE) is an autoimmune disease that affects both ch
 NCBI GEO: GSE65391 (Illumina HumanHT-12 v4.0, GPL10558)
 
 **Notebooks:**
-1. loading data + preprocessing
+1. loading + preprocessing data
 2. feature selection
 3. ML model training + evaluation
 
